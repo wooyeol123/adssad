@@ -26,7 +26,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "homepage": "https://giseokkang.github.io/react-portfolio",
+  "homepage": "https://wooyeol123.github.io/",
   "browserslist": {
     "production": [
       ">0.2%",
